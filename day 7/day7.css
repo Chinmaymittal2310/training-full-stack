@@ -1,0 +1,20 @@
+img {
+    width: 120px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+
+.anime{
+    position: fixed;
+    top: 250px;
+    left: 100px;
+    
+}
+
+.itachi{
+    position: sticky;
+    top: 50px;
+    left: 50px;
+    
+}
